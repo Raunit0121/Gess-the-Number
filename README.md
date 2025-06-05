@@ -5,7 +5,6 @@
 ## Features
 - 🎮 Interactive gameplay
 - 💬 Real-time feedback
-- 🌙 Day and night themes
 - 🌟 Animated effects
 
 ## How to Play
@@ -15,7 +14,10 @@
 
 ## 📸 Screenshots
 
-![WhatsApp Image 2025-06-05 at 17 31 32_a165e3d9](https://github.com/user-attachments/assets/60ceed6b-4ea1-42d2-b959-60d1649d09d4)|![WhatsApp Image 2025-06-05 at 17 31 32_fa465f50](https://github.com/user-attachments/assets/f2d1730e-81dc-4b00-b3b3-fc7182291d66)|![WhatsApp Image 2025-06-05 at 17 31 32_6a3a235b](https://github.com/user-attachments/assets/b769e824-2057-4335-a2a2-99cbde3fabf7)
+!![image](https://github.com/user-attachments/assets/7e64420f-65ea-4329-a2a5-a6a702ac2416)
+|![image](https://github.com/user-attachments/assets/d8d88958-d938-4436-9a71-c6e8f59d921e)
+|![image](https://github.com/user-attachments/assets/f6808fbe-6df0-4f7f-a690-ac87adbfdd65)
+
 
 
 ---
