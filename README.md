@@ -41,7 +41,6 @@
   1.Clone this repository:
 
     git clone https://github.com/Raunit0121/Gess-the-Number.git
-    cd Calculator
 
   2.Get the dependencies:
 
